@@ -1,0 +1,41 @@
+body {
+	font-family: Arial;
+}
+
+header {
+	padding: 0.5em 0;
+	border-bottom: 1px solid black;
+}
+
+header img {
+	width: 20vw;
+}
+
+.page {
+	max-width: 1200px;
+	margin: auto;
+}
+
+.page_aim {
+	width: 60%;
+	margin: 2em auto;
+	white-space: nowrap;
+}
+
+.page_aim h3, .page_aim img {
+	width: 50%;
+	display: inline-block;
+	font-style: italic;
+	vertical-align: middle;
+	white-space: initial;
+}
+
+.contacts {
+	display: block;
+}
+
+article {
+	width: 80%;
+	margin: auto;
+	line-height: 1.5;
+}
