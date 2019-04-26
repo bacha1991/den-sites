@@ -97,7 +97,11 @@ main ol li:before {
 }
 
 footer {
-	min-height: 20vh;
+	min-height: 25vh;
+}
+
+.socials {
+	margin-top: 0.5em; 
 }
 
 @media screen and (max-width: 480px) {
